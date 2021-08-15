@@ -6,6 +6,7 @@
 - 컴파일 하는 방법
 - 실행하는 방법
 - JDK와 JRE의 차이
+
 전체적인 내용에 앞서 자바의 소스코드가 실행되기까지의 과정에대한 그림을 먼저 소개하겠습니다.
 
 ![Java0](https://user-images.githubusercontent.com/16794320/129466965-bb19c8f9-a50c-4063-b9c1-aa636d71f445.png)
