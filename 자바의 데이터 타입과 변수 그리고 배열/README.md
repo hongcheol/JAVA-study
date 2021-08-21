@@ -99,8 +99,8 @@ public class Ex{
 }//block3
 ```
 
-block 1에서 선언된 j와 k를 block 2와 3에서 접근하려고 하면 에러가 발생합니다.
-block 2에서 선언된 i는 block 1에서는 접근할 수 있지만, block3에서는 접근할 수 없습니다.
+block 1에서 선언된 j와 k를 block 2와 3에서 접근하려고 하면 에러가 발생합니다.<br>
+block 2에서 선언된 i는 block 1에서는 접근할 수 있지만, block3에서는 접근할 수 없습니다.<br>
 block 3에서 선언된 br은 block 1,2,3 모두에서 접근할 수 있습니다.
 
 ### 변수의 lifetime
