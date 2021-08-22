@@ -62,14 +62,14 @@ primitive type이 아닌 모든 타입은 non-primitive type 또는 reference ty
 ```java
 [접근제어자(생략시 default)] [static] [final]변수타입 변수이름 = 초기화 하고싶은 값;
 ex)
-  //instance 변수
-  int number = 100;
-	//static 변수(클래스 변수)
-	static int number = 100;
-	//레퍼런스 타입도 같은 방식으로 가능하다.
-	public static int[ ] numbers;
-	//상수(final을 붙여준다.)
-	private static final String mappedUrl = "localhost:8080/login"
+//instance 변수
+int number = 100;
+//static 변수(클래스 변수)
+static int number = 100;
+//레퍼런스 타입도 같은 방식으로 가능하다.
+public static int[ ] numbers;
+//상수(final을 붙여준다.)
+private static final String mappedUrl = "localhost:8080/login"
 ```
 
 
